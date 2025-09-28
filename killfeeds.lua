@@ -5,7 +5,7 @@ local killMessagePool = {
 	killer.. " converted " ..extra.. " into an .svg file",
 	"Dearest " ..killer.. " by the time you're seeing this... I, " ..extra.. " am dead.",
 	extra.. " asked for a game for free from the owner because they had 50 subscribers",
-	killer.. " moved " ..extra.. " to the NOBODY ASKED vc",
+	killer.. " moved " ..extra.. " to the NOBODY ASKED vc permanantly",
 	extra.. " has earned the title: YOU LOST given by " ..killer,
 	extra.. " entered tadc because of " ..killer.. "'s dare",
 	extra.. " got addicted to " ..killer.. "'s gambling machine",
@@ -20,5 +20,6 @@ local killMessagePool = {
 	killer.. " played " ..extra.. "'s game but then left because it was interesting enough",
 	killer.. " forced " ..extra.. " to use the newgen beta feature in roblox studio",
 	killer.. " won the lottery by 1 number compared to " ..extra,
-	extra.. " killed " ..killer.."- oh wait i read it incorrectly.",
+	extra.. " killed " ..killer.. "- oh wait i read it incorrectly.",
+	extra.. " tried namesniping but " ..killer.. " took the last spot by 1 second",
 }
