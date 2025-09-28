@@ -2,6 +2,6 @@
 -- # File checked by @CametizedDev
 
 local killMessagePool = {
-	extra.." was dishonored by "..killer, -- example
+	extra.." was dishonored by " ..killer, -- example
 	extra.. " geeked out on tuesday"
 }
