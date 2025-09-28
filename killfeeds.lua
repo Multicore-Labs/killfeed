@@ -2,7 +2,6 @@
 -- # File checked by @CametizedDev
 
 local killMessagePool = {
-	extra.. " divided by 0", -- example
-	extra.. " geeked out on tuesday",
-	
+	extra.." was dishonored by "..killer, -- example
+	extra.. " geeked out on tuesday"
 }
