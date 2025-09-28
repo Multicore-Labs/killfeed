@@ -10,5 +10,7 @@ local killMessagePool = {
 	extra.. " entered tadc because of " ..killer.. "'s dare",
 	extra.. " got addicted to " ..killer.. "'s gambling machine",
 	killer.. " found out " ..extra.. " was using AI to make code",
-	extra.. " burped and " ..killer.. " sneezed"
+	extra.. " burped and " ..killer.. " sneezed",
+	extra.. " tried to make a joke by calling lua luauauauauauauauauauauauauauauauauauuauuauaauauauuaauauuauauaauauauauau",
+	extra.. " said 'shut yo chicken bone goggle chrome dobanome lonanone' to " ..killer,
 }
