@@ -13,4 +13,12 @@ local killMessagePool = {
 	extra.. " burped and " ..killer.. " sneezed",
 	extra.. " tried to make a joke by calling lua luauauauauauauauauauauauauauauauauauuauuauaauauauuaauauuauauaauauauauau",
 	extra.. " said 'shut yo chicken bone goggle chrome dobanome lonanone' to " ..killer,
+	killer.. " did some magic and turned " ..extra.. "'s brain into a birdbrain",
+	extra.. " liked brainrot rng",
+	extra.. " spelt " ..killer.."'s name wrong",
+	extra.. " you wish you were a little bit taller you wish you were a baller",
+	killer.. " played " ..extra.. "'s game but then left because it was interesting enough",
+	killer.. " forced " ..extra.. " to use the newgen beta feature in roblox studio",
+	killer.. " won the lottery by 1 number compared to " ..extra,
+	extra.. " killed " ..killer.."- oh wait i read it incorrectly.",
 }
