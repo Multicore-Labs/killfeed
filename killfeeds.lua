@@ -22,4 +22,5 @@ local killMessagePool = {
 	killer.. " won the lottery by 1 number compared to " ..extra,
 	extra.. " killed " ..killer.. "- oh wait i read it incorrectly.",
 	extra.. " tried namesniping but " ..killer.. " took the last spot by 1 second",
+	extra.. " tried studying with phonk made by " ..killer,
 }
