@@ -3,5 +3,6 @@
 
 local killMessagePool = {
 	extra.. " divided by 0", -- example
+	extra.. " geeked out on tuesday",
 	
 }
