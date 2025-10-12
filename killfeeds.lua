@@ -23,4 +23,10 @@ local killMessagePool = {
 	extra.. " killed " ..killer.. "- oh wait i read it incorrectly.",
 	extra.. " tried namesniping but " ..killer.. " took the last spot by 1 second",
 	extra.. " tried studying with phonk made by " ..killer,
+	"I just lost my " ..extra.. "!!!!!",
+	extra.. " said they were better at webhooks but fumbled HARD!!!",
+	'"yo bro what if we combine ' ..killer.. ' with ' ..extra.. '?"',
+	extra.. " thought they were the alpha sigma wolf but " ..killer.. " proved opposite",
+	extra.. " installed windows 11 but they didnt have enough space",
+	killer.. " denied " ..extra.. "'s pull request"
 }
