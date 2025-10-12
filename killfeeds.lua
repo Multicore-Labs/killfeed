@@ -1,11 +1,26 @@
--- # Below, is the entire RS killfeed file, it's a hell, so, like, lock tf in lo
--- # File checked by @CametizedDev
-
-local killMessagePool = { -- ballin
-	extra.." was dishonored by "..killer, -- example
-	extra.. " geeked out on tuesday",
-	killer.. " said a joke and made " ..extra.. " die of laughter",
-	extra.. " dang, you're REALLY bad at this game, lol.",
-	extra.. " ate their billionth banana and died of radiation",
-	extra.. " made a github repository"
+local killMessagePool = {
+	extra.. " played ETOH and immediatelly ragequit",
+	killer.. " sent " ..extra.. " something in the mailbox...",
+	extra.. " thought they were special but " ..killer.. " proved it wrong",
+	killer.. " converted " ..extra.. " into an .svg file",
+	"Dearest " ..killer.. " by the time you're seeing this... I, " ..extra.. " am dead.",
+	extra.. " asked for a game for free from the owner because they had 50 subscribers",
+	killer.. " moved " ..extra.. " to the NOBODY ASKED vc permanantly",
+	extra.. " has earned the title: YOU LOST given by " ..killer,
+	extra.. " entered tadc because of " ..killer.. "'s dare",
+	extra.. " got addicted to " ..killer.. "'s gambling machine",
+	killer.. " found out " ..extra.. " was using AI to make code",
+	extra.. " burped and " ..killer.. " sneezed",
+	extra.. " tried to make a joke by calling lua luauauauauauauauauauauauauauauauauauuauuauaauauauuaauauuauauaauauauauau",
+	extra.. " said 'shut yo chicken bone goggle chrome dobanome lonanone' to " ..killer,
+	killer.. " did some magic and turned " ..extra.. "'s brain into a birdbrain",
+	extra.. " liked brainrot rng",
+	extra.. " spelt " ..killer.."'s name wrong",
+	extra.. " you wish you were a little bit taller you wish you were a baller",
+	killer.. " played " ..extra.. "'s game but then left because it was interesting enough",
+	killer.. " forced " ..extra.. " to use the newgen beta feature in roblox studio",
+	killer.. " won the lottery by 1 number compared to " ..extra,
+	extra.. " killed " ..killer.. "- oh wait i read it incorrectly.",
+	extra.. " tried namesniping but " ..killer.. " took the last spot by 1 second",
+	extra.. " tried studying with phonk made by " ..killer,
 }
