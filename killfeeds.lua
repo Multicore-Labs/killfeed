@@ -23,4 +23,5 @@ local killMessagePool = {
 	extra.. " killed " ..killer.. "- oh wait i read it incorrectly.",
 	extra.. " tried namesniping but " ..killer.. " took the last spot by 1 second",
 	extra.. " tried studying with phonk made by " ..killer,
+	"I just lost my " ..extra.. "!!!!!"
 }
