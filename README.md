@@ -4,5 +4,5 @@ this is my killfeeds for this game: [Revolver Showdown](https://www.roblox.com/g
 
 --------------------------------------------------------
 
-update so i can prank you guys in the github channel :D 
+NOW THAT WAS A JOKE! | Last Updated: 10/18/25 | Last Game Update: 10/18/25
   - cam
