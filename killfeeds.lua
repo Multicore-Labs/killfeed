@@ -28,5 +28,6 @@ local killMessagePool = {
 	'"yo bro what if we combine ' ..killer.. ' with ' ..extra.. '?"',
 	extra.. " thought they were the alpha sigma wolf but " ..killer.. " proved opposite",
 	extra.. " installed windows 11 but they didnt have enough space",
-	killer.. " denied " ..extra.. "'s pull request"
+	killer.. " denied " ..extra.. "'s pull request",
+	killer.. " failure"
 }
